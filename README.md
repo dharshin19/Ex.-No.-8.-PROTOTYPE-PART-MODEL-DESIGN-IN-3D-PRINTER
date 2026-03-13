@@ -46,7 +46,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-
+![alt text](<Screenshot 2026-03-13 114057.png>)
+![alt text](<Screenshot 2026-03-13 210533.png>) 
 
 
 ### Name: DHARSHIN M
