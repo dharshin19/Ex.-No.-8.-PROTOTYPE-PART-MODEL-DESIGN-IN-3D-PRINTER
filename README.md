@@ -46,8 +46,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![alt text](<Screenshot 2026-03-13 092130.png>)
-![alt text](<Screenshot 2026-03-13 092206.png>)
+
+
 
 ### Name: DHARSHIN M
 ### Register Number: 212225240033
